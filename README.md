@@ -1,6 +1,6 @@
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=700&color=00F1F7&background=D40DFF00&width=435&lines=++++++++++++++++++%5E!%5E%E3%80%BD%EF%B8%8Fonish%E2%9A%A1%5E!%5E;Guy+with+a+knack+for+programming.%F0%9F%98%89;Ai+%26+Ds+Student..%F0%9F%99%82%E2%80%8D%E2%86%94%EF%B8%8F;Self-taught+;Love+to+Learn+new+Stuff...%F0%9F%92%AB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=4500&pause=700&color=7AF79A&background=D40DFF00&width=435&lines=++++++++++++++++++%5E!%5E%E3%80%BD%EF%B8%8Fonish%E2%9A%A1%5E!%5E;Guy+with+knack+for+programming.%F0%9F%98%89++++++++;Ai+%26+Ds+Student..%F0%9F%99%82%E2%80%8D%E2%86%94%EF%B8%8F;Self-taught+;Love+to+Learn+new+Stuff...%F0%9F%92%AB" alt="Typing SVG" /></a>
 </p>
 <!--  -->
 
